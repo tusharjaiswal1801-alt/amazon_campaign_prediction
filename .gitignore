@@ -1,0 +1,5 @@
+# Ignore generated model artifacts
+*.pkl
+
+# Jupyter temp files
+.ipynb_checkpoints/
